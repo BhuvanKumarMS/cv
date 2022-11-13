@@ -1,0 +1,124 @@
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.top-container {
+    background-color: #B9E0FF;
+    position: relative;
+    padding-top: 10%;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Island Moments', cursive;
+    font-size: 5.625rem;
+    color: #80489C;
+}
+
+a {
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 2.5rem;
+    color: #80489C;
+    font-weight: normal;
+}
+
+h3 {
+    font-family: 'Lexend Deca', sans-serif;
+    color: #C47AFF;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 70px;
+}
+
+.btn {
+    background: #C47AFF;
+    background-image: -webkit-linear-gradient(top, #C47AFF, #852999);
+    background-image: -moz-linear-gradient(top, #C47AFF, #852999);
+    background-image: -ms-linear-gradient(top, #C47AFF, #852999);
+    background-image: -o-linear-gradient(top, #C47AFF, #852999);
+    background-image: linear-gradient(to bottom, #C47AFF, #852999);
+    -webkit-border-radius: 16;
+    -moz-border-radius: 16;
+    border-radius: 16px;
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+    font-size: 20px;
+    padding: 9px 18px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn-1:hover {
+    background: #852999;
+    text-decoration: none;
+  }
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.img-comp {
+    width: 25%;
+    border-radius: 50%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img-chilli {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.profile {
+    margin: 100px auto;
+}
+
+.bottom-container {
+    background-color: #852999;
+    padding: 30px;
+}
+
+.links {
+    word-spacing: 50px;
+    font-size: 20px;
+}
+
+.contact-me {
+    margin: 50px;
+}
+
+hr {
+    border-top: 7px dotted;
+    background-color: white;
+    border-bottom: white solid;
+    border-left: 0;
+    border-right: 0;
+    color: grey;
+
+    width: 5%;
+}
